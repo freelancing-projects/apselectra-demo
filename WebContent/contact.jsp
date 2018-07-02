@@ -62,7 +62,7 @@
 					<li style="width: 150px;"><a href="gallery.html">Company
 							Overview</a>
 						<ul style="background: #def1d3; height: 62px; margin-top: 6px;">
-							<li style="width: 146px;"><a href="#">About Us</a></li>
+							<li style="width: 146px;"><a href="about-us.html">About Us</a></li>
 							<li style="width: 146px;"><a href="#">Vision And Mission</a></li>
 						</ul></li>
 					<li style="width: 150px;"><a href="news.html">LED Products</a>

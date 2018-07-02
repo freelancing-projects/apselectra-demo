@@ -1287,3 +1287,17 @@ span.tm_top {
 #tooplate_menu li ul li {
 	font-size: 10px;
 }
+
+#tooplate_main_fot {
+	clear: both;
+	position: relative;
+	width: 960px;
+	padding: 30px 4px;
+}
+
+span.tm_top_fot {
+	position: absolute;
+	width: 968px;
+	height: 7px;
+	background: url(../images/tooplate_content_top.png) no-repeat
+}
