@@ -184,7 +184,8 @@
 							var text = $("#text").val();
 
 							// var url = 'http://localhost:8081/apselectra-demo/sendmail';
-							var url = 'www.apselectra.in/apselectra/sendmail';
+							// var url = 'www.apselectra.in/apselectra/sendmail';
+							var url = 'www.apselectra.in/html/sendmail';
 							$.ajax({
 								type : 'POST',
 								url : url,
